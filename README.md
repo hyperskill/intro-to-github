@@ -7,7 +7,7 @@ It has two files in the *Code* tab:
 
 You cannot make changes in these files directly because you are not collaborator.
 
-The *Issues* tab is used to discuss ideas, enchacements, bugs, questions, and so on. Each *Issue* has a status.
+The *Issues* tab is used to discuss ideas, enchacements, bugs, questions, and so on. They are grouped by *Open* and *Closed*.
 
 The *Pull requests* tab contains proposals to make some changes in the files located in the repository. Repo's owners may review a request and put your changes if they look good.
 
