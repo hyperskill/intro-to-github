@@ -12,3 +12,5 @@ The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and 
 The **Pull requests** tab contains proposals to make some changes in the files located in the repository. Repo's owners may review a request and put your changes if they look good.
 
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
+
+A fork is a copy of a repository. It allows you to freely experiment with changes without affection the original project. 
