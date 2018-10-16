@@ -1,5 +1,5 @@
-# intro-to-github
-This is a demo repository to practice using GitHub.
+# simple intro-to-github
+This is a demo repository to practice using GitHub. This is a brunsh, it's useful. 
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
