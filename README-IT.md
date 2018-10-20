@@ -1,7 +1,7 @@
 # Introduzione a github
 Questa è una repo dimostrativa per imparare ad utilizzare github
 
-Ha due file nella scheda **Code**
+Contiene due file nella scheda **Code**
 - **README.md** è un file che descrive questa repo(al momento lo stai leggendo)
 - **.gitignore** è un file che specifica quali files e directory devono essere ignorate da Git
 
