@@ -17,4 +17,4 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 If you want to change content in the repo, first, you should create a new **branch** based on master to get an isolated snapshot of the project. As a rule, a branch represents a feature or a fix that is developed now. It allows you to protect **master** from possible bad changes and go back. 
 
-You can also create a new branch based on another branch (non-master) that is actively used in practice.
+You can also create a new *branch based on another branch (non-master)* that is actively used in practice.
