@@ -13,4 +13,32 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
-If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*.
+A *fork* is just a copy that allows you to change the content without affection the original project.
+Navigate to the directory of the repository and look at the content. The local repo includes all of the files, branches and commits history like the remote repository. Type the special command to verify the state of your repo:
+
+git status
+
+Now your working copy is actually on the master branch of your local repo. And it does not have differences with the origin (fork) master branch.
+
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+To make changes in your repo, first, you will create a branch to protect your master branch. Type the command below:
+
+git branch edit-readme
+
+After the command is executed, the branch exists, a new branch will be created, but you are still on master. You may check it using status as above.
+
+To get another branch, use checkout with the branch name:
+
+git checkout edit-readme
+
+Now you are on the created branch.
+
+git status
+
+The result:
+
+On branch edit-readme
+nothing to commit, working tree clean
