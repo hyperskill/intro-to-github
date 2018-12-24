@@ -21,3 +21,5 @@ Now we do commit on origin/master.
 
 Now we do the second commit to this origin/master.
 
+This is the third change on my remote repo (origin/master).
+
