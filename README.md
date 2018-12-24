@@ -19,3 +19,5 @@ Forks allow me to have my own copy of origin that I can edit.
 
 Now we do commit on origin/master.
 
+Now we do the second commit to this origin/master.
+
