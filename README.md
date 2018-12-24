@@ -21,3 +21,20 @@ Now we do commit on origin/master.
 
 Now we do the second commit to this origin/master.
 
+This is the third change on my local repo.
+
+
+
+
+
+
+D
+C
+This is the third changes on my local r
+D
+D
+D
+D
+
+D
+This is the trirDiH
