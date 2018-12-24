@@ -21,25 +21,8 @@ Now we do commit on origin/master.
 
 Now we do the second commit to this origin/master.
 
-
 This is the third change on my local repo.
 
-
-
-
-
-
-
-
-This is the third changes on my local r
-D
-D
-D
-D
-
-D
-This is the trirDiH
-=======
 This is the third change on my remote repo (origin/master).
 
->>>>>>> 256b97eec7d4a0f3a70c5db3c9de8c1c7bc37f3f
+
