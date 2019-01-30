@@ -14,3 +14,24 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+Forks allow me to have my own copy of origin that I can edit.
+
+Now we do commit on origin/master.
+
+Now we do the second commit to this origin/master.
+
+This is the third change on my local repo.
+
+This is the third change on my remote repo (origin/master).
+
+Now we do the fourth commit to remote (origin/master) repo.
+
+
+Now we do the change on branch edit-readme.
+
+
+The fifth change is passing...
+
+
+
