@@ -1,4 +1,5 @@
 # intro-to-github
+-=--------------------------
 
 @@@ Edited by Sasha Smolenkov )))
 
