@@ -1,6 +1,7 @@
 # intro-to-github
 # hyperskill is nice learning service
 This is a demo repository to practice using GitHub.
+# from edit-readme with love :-)
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
