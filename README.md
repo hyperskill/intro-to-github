@@ -6,6 +6,7 @@ It has two files in the **Code** tab:
 - **.gitignore** is a file that specifies which files and directories must be ignored by Git
 
 You cannot directly modify files in this repo because you are not a *collaborator*.
+You can **fork** the repo to a new repo that you own and make changes on that one!
 
 The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and so on. They are grouped by *Open* and *Closed*.
 
