@@ -18,3 +18,5 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 A fork is a copy of repository.
 
 Branching provides a way to work on different versions of a repository at the same time.
+
+Learning commands.
