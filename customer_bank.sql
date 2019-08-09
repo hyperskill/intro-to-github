@@ -1,5 +1,5 @@
 select 
-  *
+    a.*, b.*
 from
     DBScsfsm.AR.csf_customer a
     inner join DBScsfsm.AR.csf_customer_bank b
