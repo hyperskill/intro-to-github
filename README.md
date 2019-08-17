@@ -17,4 +17,4 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 //Es//
 #Introduccion-a-github
-Este es un repositorio de demos
+Este es un repositorio de demostacion para un practica usando github
