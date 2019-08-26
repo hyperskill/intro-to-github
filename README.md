@@ -1,5 +1,5 @@
 This file is the edited README from a hyperskill intro to github. The corresponding repo has been forked by me and a new branch added in order to edit the original README below. The previous line was added in the web interface, this one in a local copy.
-
+This line was added in IntelliJ IDEA.
 
 # intro-to-github
 This is a demo repository to practice using GitHub.
