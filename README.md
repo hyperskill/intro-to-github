@@ -1,4 +1,4 @@
-This file is the edited README from a hyperskill intro to github. The corresponding repo has been forked by me and a new branch added in order to edit the original README below.
+This file is the edited README from a hyperskill intro to github. The corresponding repo has been forked by me and a new branch added in order to edit the original README below. The previous line was added in the web interface, this one in a local copy.
 
 
 # intro-to-github
