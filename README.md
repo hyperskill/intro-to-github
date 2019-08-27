@@ -14,3 +14,6 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+**Modifying contents in a special branch**
+Before we start modifying the content, let's create a new branch. Click the drop-down list with master branch and enter a unique descriptive name for your branch like edit-readme and then press Enter or click Create branch: name.
