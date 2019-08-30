@@ -15,6 +15,10 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
-## Pro Tip
+# Pro Tip
 
-Pull Request comments are written in Markdown, so you can embed images and emoji, use pre-formatted text blocks, and other lightweight formatting.
+Pull Request comments are written in **Markdown**, so you can embed images and emoji, use pre-formatted text blocks, and other lightweight formatting.
+
+# Deploy
+
+With **GitHub**, you can deploy from a branch for final testing in production before merging to master.
