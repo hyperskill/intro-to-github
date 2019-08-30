@@ -19,6 +19,6 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 Pull Request comments are written in **Markdown**, so you can embed images and emoji, use pre-formatted text blocks, and other lightweight formatting.
 
-# Deploy
+## Deploy
 
 With **GitHub**, you can deploy from a branch for final testing in production before merging to master.
