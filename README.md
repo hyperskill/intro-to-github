@@ -19,3 +19,6 @@ Learning progress:
 - created fork
 - created new branch
 - edited file
+- cloned to Intellij
+- created branch
+- created pull request
