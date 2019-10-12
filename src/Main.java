@@ -7,6 +7,8 @@ public class Main {
 
         String input = scanner.nextLine();
 
-        System.out.println(input);
+        for (int i = 0; i < 5; i++) {
+            System.out.println(input);
+        }
     }
 }
