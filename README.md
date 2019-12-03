@@ -7,6 +7,8 @@ It has two files in the **Code** tab:
 
 You cannot directly modify files in this repo because you are not a *collaborator*.
 
+A **Fork** is a copy of a repository.
+
 The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and so on. They are grouped by *Open* and *Closed*.
 
 The **Pull requests** tab contains proposals to make some changes in the files located in the repository. Repo's owners may review a request and put your changes if they look good.
