@@ -17,3 +17,5 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 
 SOme changes locally
+
+Changes in IntelliJ
