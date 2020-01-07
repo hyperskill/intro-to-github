@@ -6,6 +6,7 @@ It has two files in the **Code** tab:
 - **.gitignore** is a file that specifies which files and directories must be ignored by Git
 
 You cannot directly modify files in this repo because you are not a *collaborator*.
+I will modify it in my own fork in branch.
 
 The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and so on. They are grouped by *Open* and *Closed*.
 
@@ -14,3 +15,7 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+Ok. New information was added to end of this article. It is just for try.
+
+Blablabla, I do not speak english well and add meaningfull sentenses in this document.
