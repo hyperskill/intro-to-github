@@ -15,5 +15,5 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
-#Forks
-I have learned something about forc, branches and pull requests and also forks
+# Forks
+I have learned something about forks, branches and pull requests and also forks
