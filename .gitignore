@@ -26,8 +26,8 @@ hs_err_pid*
 git.properties
 
 #IDEA Project Files
-*iml
-*iws
+*.iml
+*.iws
 .idea
 *ipr
 ishopdb
