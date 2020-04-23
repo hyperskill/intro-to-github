@@ -14,3 +14,11 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+# Pro Tip
+
+Pull Request comments are written in **Markdown**, so you can embed images and emoji, use pre-formatted text blocks, and other lightweight formatting.
+
+## Deploy
+
+With **GitHub**, you can deploy from a branch for final testing in production before merging to master.
