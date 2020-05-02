@@ -16,3 +16,5 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
 If you make a change, it is highly recommended that you make said change on a new branch specifically for said change, rather than master.
+
+You can clone your *fork*, i.e. your `origin`, of the repo as a local copy on your workstation.  Similarly, if you want to make a change on your local copy, make it on a branch, instead of master.
