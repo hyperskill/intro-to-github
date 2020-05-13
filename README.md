@@ -16,3 +16,5 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
  Branching provides a way to work on different versions of a repository at the same time.
+
+Branching especially helps organize team development processes. Several programmers work on different features at the same time, each in their own branch. After the job is done, the code is merged together.
