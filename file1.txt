@@ -1,1 +1,4 @@
 file created directly in github
+
+
+changing this file to understand commits better
