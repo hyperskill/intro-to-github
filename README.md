@@ -15,4 +15,4 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
-*Note* :- Modifying the README.md file for testing or learning purpose forked from hyperskill.com's github a/c. Learn the concepts of fork & branches.
+**Note** :- Modifying the README.md file for testing or learning purpose forked from hyperskill.com's github a/c. Learn the concepts of fork & branches.
