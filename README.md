@@ -5,7 +5,9 @@ It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
 - **.gitignore** is a file that specifies which files and directories must be ignored by Git
 
-You cannot directly modify files in this repo because you are not a *collaborator*.
+I *CAN* edit this file because I am in my own fork!
+I made a branch to edit this readme and will merge it back into my master.
+Finally, I will submit a Pull Request to the hyperskill repo, which will be promptly ignored.
 
 The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and so on. They are grouped by *Open* and *Closed*.
 
