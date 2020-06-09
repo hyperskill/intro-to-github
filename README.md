@@ -1,3 +1,5 @@
+# fixing bug 123 in this branch 
+
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
