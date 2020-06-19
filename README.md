@@ -11,6 +11,8 @@ The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and 
 
 The **Pull requests** tab contains proposals to make some changes in the files located in the repository. Repo's owners may review a request and put your changes if they look good.
 
+Saved changes are called **commits**. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
+
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
-If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+If you want to propose some changes to this repo, you may *fork* it, modify the content (make *commits*), and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
