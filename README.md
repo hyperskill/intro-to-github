@@ -15,20 +15,10 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
-<<<<<<< HEAD
+
 This is an edit-- have a dandy day;)
 
-
-
-This is edit number two -- have a dandy day;)
-=======
-EDIT:: A branch is a copy of master that allows you to edit the master without the fear of damaging the master/main version
-
-EDIT:: Howdy neighbor ;)
-
-Lets go to mars
->>>>>>> 4fa399c48105d3a5e8c76e619c784ce7e1eb7f6c
-
-
+edit 2
+edit 3
 
 Edit 3 ;)
