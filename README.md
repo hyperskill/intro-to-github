@@ -1,5 +1,8 @@
 # intro-to-github
-This is a demo repository to practice using GitHub.
+This is a demo repository to practice using GitHub. edited.
+
+# Forking
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
