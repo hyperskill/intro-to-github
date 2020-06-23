@@ -1,5 +1,5 @@
 # intro-to-github
-This is a demo repository to practice using GitHub. edit.
+This is a demo repository to practice using GitHub. edited.
 
 
 It has two files in the **Code** tab:
