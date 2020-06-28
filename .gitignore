@@ -31,3 +31,6 @@ git.properties
 .idea
 *ipr
 ishopdb
+
+#temporary files
+**/*.tmp
