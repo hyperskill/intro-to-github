@@ -21,4 +21,4 @@ And then commited!
 
 More changes?!
 
-Testing PGP 2
+Testing GPG 3
