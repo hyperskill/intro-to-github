@@ -1,3 +1,5 @@
+Github öğreniyorum deneme 1
+
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
