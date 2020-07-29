@@ -1,5 +1,5 @@
 # intro-to-github
-I am making some changes in this file
+I am making some changes in this file.
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
