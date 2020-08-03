@@ -1,4 +1,4 @@
-# intro-to-github from Isabelle
+# intro-to-github from a learner
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab: only 2
