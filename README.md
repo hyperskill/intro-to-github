@@ -1,5 +1,5 @@
 # intro-to-github
-This is a demo repository to practice using GitHub. It has been forked to my account.
+This is a demo repository to practice using GitHub. It has been forked to my account. And now to my computer.
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
