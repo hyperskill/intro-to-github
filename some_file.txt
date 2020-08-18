@@ -1,1 +1,8 @@
 Just some content of some file
+Now I will add a few lines
+But not all of them would be relevant
+This line is important
+This line is VERY important
+This line is important
+Oh, another very important line!!!!
+Don't skip this line!!
