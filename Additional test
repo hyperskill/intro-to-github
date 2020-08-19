@@ -1,0 +1,41 @@
+Task002   
+   
+   /**
+     * Get the characters after separator.
+     *
+     * @param sourceString source string
+     * @param separator    separator
+     * @return characters after separator
+     * @throws IllegalArgumentException if strings not provided
+     */
+
+
+// Right answer
+@Override
+    public String right(String sourceString, String separator) {
+        if (sourceString == null || separator == null
+                || sourceString.equals("") || separator.equals("")) {
+            throw new IllegalArgumentException();
+        }
+        String result = sourceString.substring(sourceString.indexOf(separator) + 1);
+        return result.trim();
+    }
+    
+// Wrong answer
+@Override
+    public String right(String sourceString, String separator) {
+        if (sourceString == null || separator == null
+                || sourceString.equals("") || separator.equals("")) {
+            throw new IllegalArgumentException();
+        }
+        return sourceString.substring(sourceString.indexOf(separator) + 2);
+    }
+    
+    
+//additional test
+@Test
+    public void rightWithSeparator() throws Exception {
+        assertEquals("Error in right function",
+                "World",
+                instance.right("Hello,World", ","));
+    }
