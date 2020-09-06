@@ -1,4 +1,5 @@
-# intro-to-github
+# intro-to-github - This is the FluidzSpec Edition!
+# We write a little bit more
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
