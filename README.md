@@ -1,7 +1,7 @@
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
->>> I'm adding tnis new change. 
+>>> I'm adding this new change. 
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
