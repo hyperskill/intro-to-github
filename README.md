@@ -1,5 +1,5 @@
 # intro-to-github
-## :information_source: is a demo repository to practice using GitHub.
+## :information_source: This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
