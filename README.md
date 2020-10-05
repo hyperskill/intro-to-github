@@ -17,4 +17,7 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 
 Due to hyperskill I have learned about forks and branches.
+
 And commits ofcourse :)
+
+Commit #3
