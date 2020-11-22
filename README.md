@@ -18,4 +18,6 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 Fixing issue 1 started
 Fixing issue 1 ended
 
-Fixing issue 2 done
+Fixing issue 3 and 4 Done
+a = 4
+b = 6
