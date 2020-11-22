@@ -17,3 +17,5 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 Fixing issue 1 started
 Fixing issue 1 ended
+
+Fixing issue 2 done
