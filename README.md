@@ -14,3 +14,6 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+Local repository.
+If I understand correctly, Git has two sorts of repositories: one called local, another called remote. ... Git local repository is the one on which we will make local changes, typically this local repository is on our computer. Git remote repository is the one of the server, typically a machine situated at 42 miles away.
