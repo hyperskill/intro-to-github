@@ -1,3 +1,4 @@
+branches are vey important in Git because they allow us to work on different parts of the project while keeping the main project separately 
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
