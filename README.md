@@ -1,5 +1,6 @@
 # intro-to-github
 This is a demo repository to practice using GitHub.
+It was forked by me. Also I've created a new branch and put some changes into README.md.
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
