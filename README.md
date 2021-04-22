@@ -1,3 +1,6 @@
+--- some new lines ---
+--- blah blah blah ---
+
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
