@@ -16,5 +16,7 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
 21 Aug 2021
+
 W OLeary
+
 Once the project has been forked - you are free to modify/edit/change your copy.  No update is made to the master copy.
