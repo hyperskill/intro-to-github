@@ -1,3 +1,5 @@
+ExtraEdit: FFork is used to get a copy of the current repository with the purpose to supply changes trhough Pull request.
+
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
