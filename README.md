@@ -1,5 +1,5 @@
 # intro-to-github
-This is a demo repository to practice GitHub forking and creating a Pull requests(PR).
+This is a demo repository to practice GitHub forking and creating a Pull request(PR).
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
