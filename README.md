@@ -17,6 +17,7 @@ You can create an _Issue_ or make a _Pull request (PR)_ to contribute to the pro
 
 If you want to propose some changes to this repo, you may _fork_ it, modify the content, and create _PR_. A _fork_ is just a copy that allows you to change the content without affection the original project.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![logoBiannce](https://user-images.githubusercontent.com/89562897/139031209-4b795212-baa3-462e-8c36-2b48c3f66aa3.png)
+
 
 yes im in
