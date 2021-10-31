@@ -43,4 +43,7 @@ copy url in browser 'https://github.com/hyperskill/intro-to-github/pull/...'
 paste into 'short text' answer area
 Send
 
+---------------------------------------
+
+MY STEPS WERE A BIT DIFFERENT FROM ABOVE HINT, AS I STARTED BY ACTUALLY FORKING THE REPO (PRESSING THE FORK BUTTON), AS INSTRUCTED IN THE TASK
 
