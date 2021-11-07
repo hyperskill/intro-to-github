@@ -5,7 +5,9 @@ This is a test entry for studying github
 
 Another test change
 
-Tests continue
+Tests continue 
+
+The tests continue until complete clarity
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
