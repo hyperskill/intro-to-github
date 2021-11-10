@@ -2,6 +2,7 @@
 This is a demo repository to practice using GitHub.
 
 :warning: THIS IS THE MODIFIED README FROM INTRO TO GITHUB!! :warning:
+
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
 - **.gitignore** is a file that specifies which files and directories must be ignored by Git
