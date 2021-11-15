@@ -1,9 +1,11 @@
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
-It has two files in the **Code** tab:
+It has four files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
 - **.gitignore** is a file that specifies which files and directories must be ignored by Git
+- **kotlin.kt** is a file containing some basic Kotlin code examples
+- **20180528_143735 (Custom).png** is a picture of Gussvattnet in Sweden provided by Gäddede Dance Center - The Kotlin Coding Paradise
 
 You cannot directly modify files in this repo because you are not a *collaborator*.
 
