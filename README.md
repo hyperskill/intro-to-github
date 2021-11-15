@@ -18,9 +18,9 @@ You can create an _Issue_ or make a _Pull request (PR)_ to contribute to the pro
 If you want to propose some changes to this repo, you may _fork_ it, modify the content, and create _PR_. A _fork_ is just a copy that allows you to change the content without affection the original project.
 
 
-<img src="https://user-images.githubusercontent.com/89562897/141729715-87b0bf5f-224b-4108-937d-819cb458dd86.png" width="324" height="324">
-<img src="https://user-images.githubusercontent.com/89562897/141729735-b93c3948-07d1-4843-a4c4-80c4f0cf511c.png" width="324" height="324">
-<img src="https://user-images.githubusercontent.com/89562897/141729746-c780aeaa-8c74-49ef-a548-527a9a923c64.png" width="324" height="324">
+<img src="https://user-images.githubusercontent.com/89562897/141729715-87b0bf5f-224b-4108-937d-819cb458dd86.png" width="800" height="500">
+<img src="https://user-images.githubusercontent.com/89562897/141729735-b93c3948-07d1-4843-a4c4-80c4f0cf511c.png" width="800" height="500">
+<img src="https://user-images.githubusercontent.com/89562897/141729746-c780aeaa-8c74-49ef-a548-527a9a923c64.png" width="500" height="500">
 
 
 
