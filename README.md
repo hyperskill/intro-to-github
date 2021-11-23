@@ -22,10 +22,12 @@ If you want to propose some changes to this repo, you may _fork_ it, modify the 
 <img src="https://user-images.githubusercontent.com/89562897/141729735-b93c3948-07d1-4843-a4c4-80c4f0cf511c.png" width="800" height="500">
 <img src="https://user-images.githubusercontent.com/89562897/141729746-c780aeaa-8c74-49ef-a548-527a9a923c64.png" width="800" height="500">
 
+![image](https://user-images.githubusercontent.com/89562897/142991495-0e81cf3b-6f97-4d44-8bf9-1560d23979b8.png)
+![image](https://user-images.githubusercontent.com/89562897/142991527-d3be98f1-4964-4cd5-98ca-12d0d61c031e.png)
+![image](https://user-images.githubusercontent.com/89562897/142991556-dde8563f-6fb3-4da5-ba94-a81d2330c33b.png)
+![image](https://user-images.githubusercontent.com/89562897/142991623-0d0da933-4bb6-45a3-b974-8770c8aa4d06.png)
 
-![image](https://user-images.githubusercontent.com/89562897/142990336-4f416b25-f0e8-4bb3-836b-af9f3a9e593f.png)
-![image](https://user-images.githubusercontent.com/89562897/142990346-49d45646-9a29-423f-8afe-7abade5f255f.png)
-![image](https://user-images.githubusercontent.com/89562897/142990310-76912c69-503e-4011-8307-0cda56ab8ad9.png)
+
 
 
 
