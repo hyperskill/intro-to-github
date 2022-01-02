@@ -1,5 +1,5 @@
 # intro-to-github
-I changed it!
+I changed it! Парам-пам-пам.
 
 This is a demo repository to practice using GitHub.
 
