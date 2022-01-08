@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1rem;
+    font-family: monospace;
+}
+
+.title {
+    text-align: center;
+    font-size: 2rem;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+}
+
+.paragraph {
+    text-align: center;
+    width: 600px;
+    padding: 2em 1em;
+    font-size: 1rem;
+    margin: 0 auto;
+}
+
+.develop {
+    margin: 0 auto;
+    width: 200px;
+    height: auto;
+    background-color: #000000;
+}
+.develop .line {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.develop .line .thank {
+    color: #ffffff;
+    padding: 1em;
+    animation: pulsate 1.5s infinite alternate;
+    text-shadow:
+            0 0 7px #fff,
+            0 0 10px #fff,
+            0 0 21px #fff,
+            0 0 42px #0fa,
+            0 0 82px #0fa,
+            0 0 92px #0fa,
+            0 0 102px #0fa,
+            0 0 151px #0fa;
+}
+
+.develop .line .spanish {
+    text-shadow:
+            0 0 7px #fff,
+            0 0 10px #fff,
+            0 0 21px #fff,
+            0 0 42px #5271ff,
+            0 0 82px #5271ff,
+            0 0 92px #5271ff,
+            0 0 102px #5271ff,
+            0 0 151px #5271ff;
+}
+.develop .line .english {
+    text-shadow:
+            0 0 7px #fff,
+            0 0 10px #fff,
+            0 0 21px #fff,
+            0 0 42px #bc13fe,
+            0 0 82px #bc13fe,
+            0 0 92px #bc13fe,
+            0 0 102px #bc13fe,
+            0 0 151px #bc13fe;
+}
+.develop .line .hindi {
+    text-shadow:
+            0 0 7px #fff,
+            0 0 10px #fff,
+            0 0 21px #fff,
+            0 0 42px #f09,
+            0 0 82px #f09,
+            0 0 92px #f09,
+            0 0 102px #f09,
+            0 0 151px #f09;
+}
+.develop .line .arab {
+    text-shadow:
+            0 0 7px #fff,
+            0 0 10px #fff,
+            0 0 21px #fff,
+            0 0 42px #0fa,
+            0 0 82px #0fa,
+            0 0 92px #0fa,
+            0 0 102px #0fa,
+            0 0 151px #0fa;
+
+}
+.develop .line .portuguese {
+    text-shadow:
+            0 0 4px #fff,
+            0 0 11px #fff,
+            0 0 19px #fff,
+            0 0 40px #0fa,
+            0 0 80px #0fa,
+            0 0 90px #0fa,
+            0 0 100px #0fa;
+}
+.develop .line .bengali {
+    text-shadow:
+            0 0 7px #fff,
+            0 0 10px #fff,
+            0 0 21px #fff,
+            0 0 42px #0fa,
+            0 0 82px #0fa,
+            0 0 92px #0fa,
+            0 0 102px #0fa,
+            0 0 151px #0fa;
+}
+.develop .line .russia {
+    text-shadow:
+            0 0 7px #fff,
+            0 0 10px #fff,
+            0 0 21px #fff,
+            0 0 42px #bc13fe,
+            0 0 82px #bc13fe,
+            0 0 92px #bc13fe,
+            0 0 102px #bc13fe,
+            0 0 151px #bc13fe;
+}
+.develop .line .japanese {
+    text-shadow:
+            0 0 7px #fff,
+            0 0 10px #fff,
+            0 0 21px #fff,
+            0 0 42px #f09,
+            0 0 82px #f09,
+            0 0 92px #f09,
+            0 0 102px #f09,
+            0 0 151px #f09;
+}
+.develop .line .french {
+    text-shadow:
+            0 0 4px #fff,
+            0 0 11px #fff,
+            0 0 19px #fff,
+            0 0 40px #0fa,
+            0 0 80px #0fa,
+            0 0 90px #0fa,
+            0 0 100px #0fa;
+}
+
+@keyframes pulsate {
+    100% {
+
+        text-shadow: 0 0 4px #fff,
+        0 0 11px #fff,
+        0 0 19px #fff,
+        0 0 40px #bc13fe,
+        0 0 80px #bc13fe,
+        0 0 90px #bc13fe,
+        0 0 100px #bc13fe,
+        0 0 150px #bc13fe;
+
+    }
+
+    0% {
+
+        text-shadow: 0 0 2px #fff,
+        0 0 4px #fff,
+        0 0 6px #fff,
+        0 0 10px #bc13fe,
+        0 0 45px #bc13fe,
+        0 0 55px #bc13fe,
+        0 0 70px #bc13fe,
+        0 0 80px #bc13fe;
+    }
+}
