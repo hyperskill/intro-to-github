@@ -25,6 +25,7 @@
 .develop {
     margin: 0 auto;
     width: 200px;
+    height: auto;
     background-color: #000000;
 }
 .develop .line {
