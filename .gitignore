@@ -31,3 +31,4 @@ git.properties
 .idea
 *ipr
 ishopdb
+/testing_new_file.txt
