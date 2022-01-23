@@ -14,3 +14,14 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+
+
+1. Select File for Review, i.e. README.Dmd
+2. Click pencil icon on right side of the main code body
+3. Insert/Remove desired changes
+4. Add Title to the version submission
+5. Add Description of the recommended changes to the version submission
+6. Click 'Create pull request' button
+7. Click 'Pull request' TAB
+8. Click 'Update README.md'
