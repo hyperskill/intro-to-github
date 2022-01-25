@@ -31,3 +31,5 @@ git.properties
 .idea
 *ipr
 ishopdb
+
+target
