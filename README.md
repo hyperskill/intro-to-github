@@ -1,16 +1,16 @@
-# intro-to-github
-This is a demo repository to practice using GitHub.
+# Introducción-a-github
+Este es un repositorio de demostración para practicar el uso de GitHub.
 
-It has two files in the **Code** tab:
-- **README.md** is a file that describes this repo (you are currently reading it)
-- **.gitignore** is a file that specifies which files and directories must be ignored by Git
+Tiene dos archivos en la pestaña **Code**:
+- **README.md** es un archivo que describe este repositorio (lo estás leyendo actualmente)
+- **.gitignore** es un archivo que especifica qué archivos y directorios deben ser ignorados por Git
 
-You cannot directly modify files in this repo because you are not a *collaborator*.
+No puedes modificar directamente los archivos de este repositorio porque no eres un *collaborator*.
 
-The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and so on. They are grouped by *Open* and *Closed*.
+La pestaña **Issues** se usa para discutir ideas, mejoras, bugs, preguntas, etc. Estan agrupados por *Open* y *Closed*.
 
-The **Pull requests** tab contains proposals to make some changes in the files located in the repository. Repo's owners may review a request and put your changes if they look good.
+La pestaña **Pull requests** contiene propuestas para realizar algunos cambios en los archivos ubicados en el repositorio. Los propietarios de los repositorios pueden revisar una solicitud y poner sus cambios si se ven bien.
 
-You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
+Puedes crear un *Issue* o hacer una *Pull request (PR)* para contribuir al proyecto.
 
-If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+Si quieres proponer algunos cambios a este repositorio, puedes hacer un *fork*, modificar el contetido, y crear una *PR*. Un *fork* no es más que una copia que te permite cambiar el contenido sin afectar al proyecto original.
