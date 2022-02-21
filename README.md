@@ -12,5 +12,5 @@ The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and 
 The **Pull requests** tab contains proposals to make some changes in the files located in the repository. Repo's owners may review a request and put your changes if they look good.
 
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
-
+After you change the content of a repo, you can create a pull request (PR) to propose your changes to the original repository. You may click Pull request as shown below or Compare and then Create pull request on the new Comparing changes page.
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
