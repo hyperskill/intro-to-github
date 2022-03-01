@@ -1,4 +1,4 @@
-# Files ignored during commit
+# Files ignored by git
 # Compiled class file
 *.class
 
