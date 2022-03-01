@@ -31,3 +31,6 @@ git.properties
 .idea
 *ipr
 ishopdb
+
+#VS Code Project Files
+.vscode/
