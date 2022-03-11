@@ -14,3 +14,11 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+In October 2018 GitHub has launched **Actions**, its workflow automation tool. GitHub Actions has evolved to give developers powerful automation and CI/CD (continuous integration/continuous deployment) capabilities right next to your code in GitHub.
+
+**Insights > Network**
+The network graph displays the branch history of the entire repository network, including branches of the root repository and branches of forks that contain commits unique to the network.
+
+As of **October 1, 2020** the default branch name for newly-created repositories is **main**.
+
