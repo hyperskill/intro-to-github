@@ -19,3 +19,6 @@ In October 2018 GitHub has launched **Actions**, its workflow automation tool. G
 
 **Insights > Network**
 The network graph displays the branch history of the entire repository network, including branches of the root repository and branches of forks that contain commits unique to the network.
+
+As of **October 1, 2020** the default branch name for newly-created repositories is **main**.
+
