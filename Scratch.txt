@@ -1,0 +1,1 @@
+This is an example of a text file created in my personal github account by forking to the intro-to-github repository.
