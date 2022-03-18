@@ -1,3 +1,8 @@
+#git repo fork clone modification to solve jetbrains Academy task:
+#https://hyperskill.org/learn/step/16093
+*.7z
+*.txt
+
 # Compiled class file
 *.class
 
