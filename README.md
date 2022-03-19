@@ -1,7 +1,7 @@
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
-TEST TEST TEST this is a change
+TEST TEST TEST this is a change change
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
