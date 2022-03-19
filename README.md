@@ -1,4 +1,5 @@
 # intro-to-github
+Hi, I'm in JetBrains Academy learning a lot!!! Thank you
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
