@@ -28,6 +28,6 @@ git.properties
 #IDEA Project Files
 *iml
 *iws
-.idea
+*.idea
 *ipr
 ishopdb
