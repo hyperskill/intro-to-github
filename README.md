@@ -1,5 +1,5 @@
 # intro-to-github-vozdushnui
-This is a demo repository to practice using GitHub.
+This is a demo repository to practice using GitHub and create a new PR.
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
