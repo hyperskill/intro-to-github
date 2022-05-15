@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GitInternalsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-14T21:15:34" hostname="HOME-PC" time="0.116">
+  <properties/>
+  <testcase name="start" classname="GitInternalsTest" time="0.116"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Enter git object location:
+> test/gitone/objects/61/8383db6d7ee3bd2e97b871205f113b6a3ba854
+blob 14
+Hello world! 
+?[1;31m
+Start test 2?[0m
+Enter git object location:
+> test/gitone/objects/a8/7a4a0e9fcf5a8a091c54909b674ac2a051f5e8
+blob 24
+first line
+second line 
+?[1;31m
+Start test 3?[0m
+Enter git object location:
+> test/gitone/objects/4a/8abe7b618ddf9c55adbea359ce891775794a61
+blob 35
+first line
+second line
+third line 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
