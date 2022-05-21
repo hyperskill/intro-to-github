@@ -1,0 +1,3 @@
+# Proposals
+---
+Please Hyperskill team, update the django track content
