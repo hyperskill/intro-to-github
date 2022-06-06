@@ -2,6 +2,7 @@
 This is a demo repository to practice using GitHub.
 
 Пока разберешься не раз вспотеешь.
+Пришлось еще разрк попотеть.
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
