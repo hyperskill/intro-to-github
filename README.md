@@ -1,11 +1,11 @@
 # intro-to-github
-This is a demo repository to practice using GitHub.
+This is a demo repository to practice using GitHub. Right now it's being changed by me for educational purposes.
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
 - **.gitignore** is a file that specifies which files and directories must be ignored by Git
 
-You cannot directly modify files in this repo because you are not a *collaborator*.
+You cannot directly modify files in this repo because you are not a *collaborator*. Only I can modify that, muahahaha!
 
 The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and so on. They are grouped by *Open* and *Closed*.
 
@@ -14,3 +14,5 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+Urgh, that's it, I'm tired of making so large changes to the file...
