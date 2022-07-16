@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+#MyContribution
+*.kekw
+
 # BlueJ files
 *.ctxt
 
