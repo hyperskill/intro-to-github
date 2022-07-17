@@ -1,6 +1,9 @@
 what is github 
+
 how to make your first repository
+
 try and mistake
+
 excellence is the goal
 
 # intro-to-github
