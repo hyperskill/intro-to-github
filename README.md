@@ -1,5 +1,5 @@
-# intro-to-github
-This is a demo repository to practice using GitHub.
+# Finn's Editted intro-to-github
+This is a demo repository to practice using GitHub - Finn has created a fork of the original ReadMe File.
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
