@@ -25,6 +25,9 @@ hs_err_pid*
 # Git
 git.properties
 
+#IDEA Project subfolder
+.idea*
+
 #IDEA Project Files
 *iml
 *iws
