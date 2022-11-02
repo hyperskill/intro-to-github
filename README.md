@@ -1,5 +1,5 @@
 # intro-to-github
-This is a demo repository to practice using GitHub.
+This is a demo repository to practice using GitHub, which has been forked by velouriant as part of a Hyperskill project.
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
