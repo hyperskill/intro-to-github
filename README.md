@@ -7,6 +7,10 @@ It has two files in the **Code** tab:
 
 You cannot directly modify files in this repo because you are not a *collaborator*.
 
+the Wiki tab is empty, but it is actually where the documentation of the project (how to use it, how it was designed, its core principles, and so on) should be stored. Whereas a README.md is to quickly let readers know what your project can do, wikis help provide additional information.
+
+In the Insight tab you can find stats and information about the repository.
+
 The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and so on. They are grouped by *Open* and *Closed*.
 
 The **Pull requests** tab contains proposals to make some changes in the files located in the repository. Repo's owners may review a request and put your changes if they look good.
