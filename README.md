@@ -14,3 +14,6 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+Etymology
+The word "fork" has been used to mean "to divide in branches, go separate ways" as early as the 14th century.[https://www.etymonline.com/word/fork] In the software environment, the word evokes the fork system call, which causes a running process to split itself into two (almost) identical copies that (typically) diverge to perform different tasks.[Robles, Gregorio; González-Barahona, Jesús M. (2012). A Comprehensive Study of Software Forks: Dates, Reasons and Outcomes]
