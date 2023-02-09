@@ -1,16 +1,16 @@
-# intro-to-github
-This is a demo repository to practice using GitHub.
+# введение в github
+Это демонстрационный репозиторий для практики использования GitHub.
 
-It has two files in the **Code** tab:
-- **README.md** is a file that describes this repo (you are currently reading it)
-- **.gitignore** is a file that specifies which files and directories must be ignored by Git
+У него есть два файла на вкладке **Code**:
+- **README.md ** - это файл, описывающий это репозиторий (в данный момент вы его читаете)
+- **.gitignore** - это файл, который указывает, какие файлы и каталоги должны игнорироваться Git
 
-You cannot directly modify files in this repo because you are not a *collaborator*.
+Вы не можете напрямую изменять файлы в этом репозитории, потому что вы не являетесь *соавтором *.
 
-The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and so on. They are grouped by *Open* and *Closed*.
+Вкладка ** Проблемы ** используется для обсуждения идей, улучшений, ошибок, вопросов и так далее. Они сгруппированы по *Открытым* и *Закрытым*.
 
-The **Pull requests** tab contains proposals to make some changes in the files located in the repository. Repo's owners may review a request and put your changes if they look good.
+Вкладка **Запросы на извлечение** содержит предложения по внесению некоторых изменений в файлы, расположенные в репозитории. Владельцы репозитория могут просмотреть запрос и внести ваши изменения, если они выглядят хорошо.
 
-You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
+Вы можете создать *Проблему * или сделать * Запрос на извлечение (PR) *, чтобы внести свой вклад в проект.
 
-If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+Если вы хотите предложить некоторые изменения в этом репозитории, вы можете *разветвить * его, изменить содержимое и создать * PR *. * Форк* - это просто копия, которая позволяет вам изменять содержимое, не затрагивая исходный проект.
