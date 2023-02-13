@@ -1,6 +1,6 @@
 # intro-to-github
-This is a demo repository to practice using GitHub.
-Used by Greenjack
+This is a fork of a demo repository to practice using GitHub. 
+Forked by Greenjack
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
