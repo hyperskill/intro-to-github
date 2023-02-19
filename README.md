@@ -14,3 +14,7 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+Forking means copying an already existing repo, in most cases from someone else, and using it for own objectives, without impacting the original repo.
+
+Branching means creating a copy of a certain branch, used for mostly experimental reasons, without impacting the original branch.
