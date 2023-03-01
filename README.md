@@ -1,3 +1,5 @@
+That's the new change in the file for educational purposes.
+
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
