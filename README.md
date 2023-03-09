@@ -17,3 +17,4 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 
 To ja teraz cos dodaje!!!!
+To znowu ja :). Teraz znowu cos pisze ? No no.
