@@ -15,8 +15,8 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
-Forking is when you create a copy of someone else's Git repo (usually via GitHub) to your own account. This allows you to make changes to the codebase without affecting the original repo. You can then make changes to your forked copy and create pull requests to merge those changes back into the original repo you forked from.
+**Forking** is when you create a copy of someone else's Git repo (usually via GitHub) to your own account. This allows you to make changes to the codebase without affecting the original repo. You can then make changes to your forked copy and create pull requests to merge those changes back into the original repo you forked from.
 
-Branching is when you create a copy of your own codybase within the same repo. This allows you to make changes to your codebase without affecting the main branch (usually called "master" or "main"). You can create new branches for different features or bug gixes, and merge those branches back into the main branch whenever you're ready.
+**Branching** is when you create a copy of your own codybase within the same repo. This allows you to make changes to your codebase without affecting the main branch (usually called "master" or "main"). You can create new branches for different features or bug gixes, and merge those branches back into the main branch whenever you're ready.
 
 Think of forking as creating a copy of someone else's codebase, and branching as creating a copy of your own codebase.
