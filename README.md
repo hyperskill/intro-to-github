@@ -14,3 +14,24 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+##########################################################
+
+Modificación de contenido
+El flujo de trabajo básico tiene este aspecto:
+
+Modifique los archivos en su copia de trabajo.
+
+Seleccione y organice los cambios que desee que formen parte de su próxima confirmación.
+
+Realice una confirmación que incluya los cambios.
+
+¡Hagamos algunos cambios entonces! Abra el archivo README.md y escriba algunas líneas en él. Luego verifique el estado del repositorio nuevamente y verá que el archivo ha sido cambiado. Ahora, organice estos cambios usando:add
+
+$ git add README.md
+Puede confirmar estos cambios en su repositorio local con un comentario descriptivo:
+
+$ git commit -m "Add information about local repository in readme file"
+Puede realizar tantas confirmaciones como necesite. Los cambios pueden ser diferentes: agregar nuevos archivos, eliminar o modificar los existentes. No olvides ponerlos en escena usando antes.addcommit
+
+
