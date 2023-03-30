@@ -14,3 +14,9 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+a fork is a copy of a repository that is created on a user's account. When a user forks a repository, they create their own copy of that repository and can make changes to it without affecting the original repository. This allows users to freely experiment with the code, add new features, fix bugs, or make any other changes they see fit.
+
+Forking is a fundamental feature of GitHub that promotes collaboration and community involvement. It allows developers to work on the same codebase without interfering with each other's work, making it easier to contribute to open-source projects and share code with others.
+
+Once a user has forked a repository, they can make changes to it and submit a pull request to the original repository owner. The owner can then review the changes and decide whether to merge them into the original repository. This process enables open-source projects to benefit from a large community of contributors, all working together to improve the code.
