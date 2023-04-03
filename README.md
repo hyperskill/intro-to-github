@@ -11,6 +11,11 @@ The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and 
 
 The **Pull requests** tab contains proposals to make some changes in the files located in the repository. Repo's owners may review a request and put your changes if they look good.
 
+Forks feature a way to host a certain repository locally, make changes and contribute to the project without being a member of the contributors.
+
+Branches feature a way to create an image of the project and freedom to edit freely without affecting the main source.
+
+
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
