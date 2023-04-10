@@ -1,4 +1,5 @@
 # intro-to-github
+This changes in the special branch
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
