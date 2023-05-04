@@ -14,3 +14,21 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+Translate to slovak
+
+úvod do githubu
+Toto je demo úložisko na precvičenie používania GitHub.
+
+Na karte **Kód** má dva súbory:
+- **README.md** je súbor, ktorý popisuje toto úložisko (momentálne ho čítate)
+- **.gitignore** je súbor, ktorý určuje, ktoré súbory a adresáre musí Git ignorovať
+
+Nemôžete priamo upravovať súbory v tomto úložisku, pretože nie ste *spolupracovník*.
+
+Karta **Problémy** sa používa na diskusiu o nápadoch, vylepšeniach, chybách, otázkach atď. Sú zoskupené podľa *Otvorené* a *Zatvorené*.
+
+Karta **Požiadavky na stiahnutie** obsahuje návrhy na vykonanie niektorých zmien v súboroch umiestnených v úložisku. Vlastníci Repo môžu skontrolovať žiadosť a vložiť vaše zmeny, ak vyzerajú dobre.
+
+Môžete vytvoriť *Problém* alebo *Pull request (PR)*, aby ste prispeli k projektu.
+
+Ak chcete navrhnúť nejaké zmeny tohto repozitára, môžete ho *rozvetviť*, upraviť obsah a vytvoriť *PR*. *Fork* je len kópia, ktorá vám umožňuje meniť obsah bez ovplyvnenia pôvodného projektu.
