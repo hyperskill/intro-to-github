@@ -31,3 +31,13 @@ git.properties
 .idea
 *ipr
 ishopdb
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
