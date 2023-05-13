@@ -14,3 +14,5 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+I created a new branch where I will edit the ReadMe file, per the request of Hyperskill Java Backend Developper track. I believe I would thus obtain the additional technology stack to complement core coding skillz.
