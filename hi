@@ -1,0 +1,6 @@
+function quotient(a, b) {
+  console.log(a / b);
+}
+
+quotient(10, 5); // 2
+quotient(6, 2);  // 3
