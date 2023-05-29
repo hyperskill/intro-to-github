@@ -1,0 +1,2 @@
+this empty text file is added by terminal by using git add file_name.name to stage changes and then commited using git commit -m "message here"
+and now its finally edited by git hub web interface
