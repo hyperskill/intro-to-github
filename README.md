@@ -14,3 +14,21 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+# New Note in Markdown
+
+---
+
+Just a few ideas in no particular order:
+- Eat more fiber
+- Expect ability where you find accountability
+- Don't let them up-sell you
+
+A list of things:
+1. Shoes
+2. Mittens
+3. Kittens
+
+**That's enough!**
+
+
