@@ -1,11 +1,13 @@
-# intro-to-github
-This is a demo repository to practice using GitHub.
+# outro to Gothaha
+This was a demo repository to practice using GitHub.
+Not anymore.
 
-It has two files in the **Code** tab:
+but it still has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
 - **.gitignore** is a file that specifies which files and directories must be ignored by Git
 
 You cannot directly modify files in this repo because you are not a *collaborator*.
+(But you can when you fork it).
 
 The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and so on. They are grouped by *Open* and *Closed*.
 
