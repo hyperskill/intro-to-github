@@ -17,3 +17,5 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 # changes
 this is how I changed the file
+
+I learned how to create a new branch from the GitHub website. I also learned how to create and view a fork of a branch.
