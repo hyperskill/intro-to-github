@@ -1,16 +1,15 @@
-# intro-to-github
-This is a demo repository to practice using GitHub.
+Este é um repositório de demonstração para praticar o uso do GitHub.
 
-It has two files in the **Code** tab:
-- **README.md** is a file that describes this repo (you are currently reading it)
-- **.gitignore** is a file that specifies which files and directories must be ignored by Git
+Ele possui dois arquivos na guia Code:
 
-You cannot directly modify files in this repo because you are not a *collaborator*.
+README.md é um arquivo que descreve este repositório (você está atualmente lendo ele)
+.gitignore é um arquivo que especifica quais arquivos e diretórios devem ser ignorados pelo Git
+Você não pode modificar diretamente os arquivos deste repositório porque você não é um colaborador.
 
-The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and so on. They are grouped by *Open* and *Closed*.
+A guia Issues é usada para discutir ideias, melhorias, bugs, perguntas e assim por diante. Elas são agrupadas por Abertas e Fechadas.
 
-The **Pull requests** tab contains proposals to make some changes in the files located in the repository. Repo's owners may review a request and put your changes if they look good.
+A guia Pull requests contém propostas para fazer algumas mudanças nos arquivos localizados no repositório. Os proprietários do repositório podem revisar uma solicitação e incorporar suas mudanças se parecerem boas.
 
-You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
+Você pode criar um Issue ou fazer um Pull request (PR) para contribuir para o projeto.
 
-If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+Se você quiser propor algumas mudanças neste repositório, você pode forká-lo, modificar o conteúdo e criar um PR. Um fork é apenas uma cópia que permite que você altere o conteúdo sem afetar o projeto original.
