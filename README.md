@@ -1,6 +1,8 @@
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
+They ask me to make some changes to the repo and make a pull request. So here it is. 
+
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
 - **.gitignore** is a file that specifies which files and directories must be ignored by Git
