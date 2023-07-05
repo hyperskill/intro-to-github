@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+#this is my change to this file
+*.camper
+
 # BlueJ files
 *.ctxt
 
