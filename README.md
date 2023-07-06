@@ -1,4 +1,5 @@
 # intro-to-github
+This is an updated version of the project - Lang'at made the changes
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
