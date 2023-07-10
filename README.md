@@ -1,4 +1,5 @@
-# intro-to-github
+# Intro-to-Github
+Some minor Changes to this file in Read Me
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
