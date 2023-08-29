@@ -1,4 +1,5 @@
-# intro-to-github
+# I'm changing this README file in the edit-readme branch.
+# intro-to-GitHub
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
