@@ -1,4 +1,4 @@
-# intro-to-github (testin pull request)
+# intro-to-github (testing of pull request)
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
