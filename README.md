@@ -18,3 +18,5 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 This is a change to the branch of the forked repo 'master'.
 
 This line was added locally then pushed to the GitHub repo.
+
+This line was added on GitHub to demonstrate a successful git pull.
