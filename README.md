@@ -1,4 +1,14 @@
 # intro-to-github
+
+# Git: Local work
+The standard approach to work with a project is to have a local copy of the repository and commit your changes to this copy rather than to a remote repo hosted on GitHub through the web interface. 
+
+This local repository has full version history of the project that can be useful when working without an internet connection. 
+
+After you've changed something in the local repo, you can push your changes to the remote repository to make them visible to other developers.
+
+
+
 I have made some improvements, see below: 
 
 This is a demo repository to practice using GitHub.
