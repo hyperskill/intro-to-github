@@ -3,7 +3,7 @@ This is a demo repository to practice using GitHub.
 
 # test
 Test change for updating file 
-# end
+# intro-to-github cd
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
