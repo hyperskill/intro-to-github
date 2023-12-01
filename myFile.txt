@@ -1,1 +1,3 @@
 ﻿This is a new file to see the change
+
+New line from a new branch edit-myFile
