@@ -13,4 +13,6 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
-If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affecting the original project.
+
+You may also create a *branch*, which is a separate version from the *main* repository. *Branching* allows you to safely modify and experiment with new features and content that you would like to add to the original project. Each repository has one *main* (default) branch, but can have multiple other branches. A certain branch can be merged into the main branch by performing a *pull request*.
