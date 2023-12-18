@@ -1,5 +1,5 @@
-# intro-to-github
-This is a demo repository to practice using GitHub.
+# intro-to-github-fork
+This is a demo repository to practice using GitHub. But not only that, this is a fork of that main repository! How terribly exiting!
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
