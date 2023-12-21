@@ -1,3 +1,6 @@
+# Test to Branching
+This is a test conducted to examine the branching behaviour.
+
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
