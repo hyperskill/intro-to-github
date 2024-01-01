@@ -47,3 +47,5 @@ jobs:
       run: echo "score2=80" >> $GITHUB_ENV
     - id: calculate_average
       run: echo "avg=$(( ( $score1 + $score2 ) / 2 ))" >> $GITHUB_ENV
+    - id: print_average
+      run: echo "$avg"
