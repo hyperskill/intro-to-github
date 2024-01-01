@@ -1,0 +1,11 @@
+name: My Workflow
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Display Runner Details
+      run: echo "The runner OS is ${{ runner.os }} and the architecture is ${{ runner.arch }}"
