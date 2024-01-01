@@ -1,0 +1,16 @@
+name: Contexts Example
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macOS-latest]
+    steps:
+    - name: Display Matrix Information
+      run: |
+        echo "The index of the current job in the matrix is ${{ strategy.job-index }}"
+        echo "The total number of jobs in the matrix is ${{ strategy.job-total }}"
