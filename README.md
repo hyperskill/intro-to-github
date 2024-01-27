@@ -1,3 +1,5 @@
+Hyperskill is really underrated!
+
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
