@@ -14,3 +14,6 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+Ik schrijf wel even in het Nederlands. Een fork kun je gebruiken om een repo van iemand anders voor jezelf te gebruiken, en indien nodig voorstellen te doen aan de main.
+Een branch is als het ware een vertakking van de main, daarin kun je werken zodat de main niet verstoord raakt.
