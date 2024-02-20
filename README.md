@@ -14,3 +14,9 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+Additionally, the Projects tab can be utilized to organize and manage tasks, assignees, and deadlines. It's a useful feature for coordinating efforts and tracking progress on various aspects of the project.
+
+Furthermore, the Wiki tab offers a space for collaborative documentation. Users can create and edit pages to provide additional information, guidelines, or tutorials related to the project.
+
+Feel free to explore these tabs and engage with the community to contribute to the project's growth and improvement. Your input and contributions are valuable!
