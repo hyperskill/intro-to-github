@@ -15,6 +15,5 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 
 You can create an _Issue_ or make a _Pull request (PR)_ to contribute to the project.
 
-If you want to propose some changes to this repo, you may _fork_ it, modify the content, and create _PR_. A _fork_ is just a copy that allows you to change the content without affection the original project.
-
+This is an additional sentence.
 This is another additional sentence.
