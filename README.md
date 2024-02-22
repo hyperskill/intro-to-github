@@ -1,5 +1,5 @@
-# intro-to-github
-This is a demo repository to practice using GitHub.
+# intro-to-github by Natan Pedrosa
+This is a demo repository to practice using GitHub on 22/02/2024.
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
