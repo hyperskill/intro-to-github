@@ -1,4 +1,4 @@
-# intro-to-github by Natan
+# intro-to-github by Natan Pedrosa
 This is a demo repository to practice using GitHub on 22/02/2024.
 
 It has two files in the **Code** tab:
