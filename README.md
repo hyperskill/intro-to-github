@@ -15,6 +15,6 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
-A **fork** is a copy of a repository. It is used to modify the content copied from the original reporsitory, without affecting the original reporisory. Later on, these changes can be proposed to the team that manages the original repository by using the **Pull requests** option.
+A **fork** is a copy of a repository. It is used to modify the content copied from the original reporsitory, without affecting it. Later on, these changes can be proposed to the team that manages the original repository by using the **Pull requests** option.
 
 **Branching** allows to work on different versions of a repository at the same time.
