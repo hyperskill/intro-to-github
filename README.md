@@ -1,4 +1,9 @@
 # intro-to-github
+
+By forking I can have a copy of someones repository without collabing.
+
+By branching a new branch for a new feature I can work effortlessly without ruining the original code.
+
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
