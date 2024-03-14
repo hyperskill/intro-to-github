@@ -31,3 +31,7 @@ git.properties
 .idea
 *ipr
 ishopdb
+
+# Exclude environment files
+.env
+
