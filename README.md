@@ -14,3 +14,9 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+Forks:
+Forks allow users to create a copy of a GitHub repository under their own account. This copy enables them to make changes independently of the original repository. Forks are commonly used for contributing to open-source projects by making changes and submitting pull requests. They also serve as a way to experiment with changes without affecting the original project.
+
+Branching:
+Branching allows users to create separate lines of development within a repository. This enables developers to work on new features, bug fixes, or experiments without altering the main or master branch. Branches are useful for organizing work and isolating changes, making it easier to track issues and manage development tasks.
