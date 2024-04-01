@@ -15,4 +15,4 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
-By default, any repository has a branch called main that represents the actual version of a project. If you want to change some content in a repo, first, you need to create a new branch based on main to get an isolated snapshot of the project.
+By default, any repository has a branch called main that represents the actual version of a project. If you want to change some content in a repo, first, you need to create a new branch based on main to get an isolated snapshot of the project. Usually, a branch represents a feature or a fix that is being developed at the moment. It allows you to protect main from possible unwanted changes and to make a rollback. You can also create a new branch based on another branch (non-main) that is active.
