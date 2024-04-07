@@ -6,7 +6,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-         repository: abystoma/test
-         ref: main
+          repository: abystoma/test
+          ref: CombinedPhrase
+      - name: Create file "hello.txt" with the word Hello
+        run: touch hello.txt && echo "Hello" >> hello.txt
       - name: Show me the answer
-        run: cat answer.txt
+        run: cat hello.txt from.txt
