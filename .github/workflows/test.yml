@@ -1,0 +1,12 @@
+name: hs_workflow_intro_to_github_actions
+on: [push]
+jobs:
+  show-secret-phrase:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+         repository: abystoma/test
+         ref: main
+      - name: Show me the answer
+        run: cat answer.txt
