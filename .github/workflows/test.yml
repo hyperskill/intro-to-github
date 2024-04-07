@@ -1,14 +1,12 @@
-name: hs_workflow_intro_to_github_actions
+name: commit_checkout
 on: [push]
 jobs:
-  show-secret-phrase:
+  external-workflow:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        with:
-          repository: abystoma/test
-          ref: CombinedPhrase
-      - name: Create file "hello.txt" with the word Hello
-        run: touch hello.txt && echo "Hello" >> hello.txt
-      - name: Show me the answer
-        run: cat hello.txt from.txt
+      - uses: actions/checkout@v4
+        with: 
+          repository: abystoma/external-workflow
+          ref: 3eb718710f20d7df6874acdc41e189a2ae4182f5
+      - name: Greetings
+        run: echo "$(<greeting.txt)"
