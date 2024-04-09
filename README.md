@@ -15,4 +15,4 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
-Forking a repository is just creating a copy of an existing repo. Branch allow for different programmers to work on a repo at the same time.
+Forking a repository is just creating a copy of an existing repo. Branching allow for different programmers to work on a repo at the same time.
