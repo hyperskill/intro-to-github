@@ -17,4 +17,4 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 If you want to **edit** this file, click on the edit button (pencil) or click the same button below the repo.
 
-To apply these changes, scroll to the **Commit changes** section, write a meaningful message, and then click **Commit changes**.
+To apply these changes, scroll to the **Commit changes** section, write a meaningful message, and then click **Commit changes**. You may perform several commits in the same branch.
