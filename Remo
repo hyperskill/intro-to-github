@@ -1,0 +1,84 @@
+Create files
+Description
+
+An empty repository doesn't make much sense. Let's add some files to work with.
+
+There is a Bash command called echo. This command in Bash is used to display a line of text/string that is passed as an argument. But with the help of the echo command you can create files with content in it or add content to an existing file. In this project stage, you will do both.
+
+First, create a Python file with the name main.py and with the following content print('Hello world'). If there is an existing file with the same name, overwrite it and replace the file's content.
+
+If you run this file in an environment where Python is installed, it will print Hello world to the standard output. But this is just some information; your task is not to run this file.
+
+Now there is another file with the name .env. Add the following text to it PASSWORD=Ax?bu75+33. But be aware, don't delete the existing file; add the content to it.
+
+You can use .env files to store environmental variables, like URLs, API keys, and secrets.
+Objectives
+
+    Create the first file;
+    Add content to the second file.
+
+Solution:
+
+# Write your solution below
+# You should write the commands line by line
+echo "print('Hello world')" > main.py
+echo 'PASSWORD=Ax?bu75+33' >> .env
+
+Ignore it
+Description
+
+It is essential not to commit/push uncalled-for files or files containing secrets. Mainly when you work with public repositories. Luckily, there is a way to avoid it. You can add file and directory names to the .gitignore, and they will not be committed or pushed. In the last stage, you have added a secret line to a .env file. Now add the .env file to the .gitignore:
+
+You can use git status --help command to see available options and get help.
+
+Solution:
+
+# Write your solution below
+# You should write the commands line by line
+echo ".env" >> .gitignore
+git status --ignored
+
+
+Commit
+Description
+
+In this stage, make your first commit. First, add the files to the staging area and commit them afterward.
+Objectives
+
+    Stage your files;
+    Commit the changes with the commit message Initial commit.
+
+Solution:
+
+# Write your solution below
+# You should write the commands line by line
+git add .
+git commit -m "Initial commit"
+
+Push
+Description
+
+In the second stage of the project, you've defined a remote. Now, you can push your changes to it. While pushing your changes, don't forget the -u or the --set-upstream option in your first attempt. Now, any future push/pull attempt will target the upstream branch automatically.
+
+If you do not set the upstream, with any push/pull attempt you need to define the name of the remote, and the name of the branch explicitly.
+Objectives
+
+    Push your changes to the remote
+Solution:
+
+# Write your solution below
+# You should write the commands line by line
+git push --set-upstream origin main
+
+Remotes
+Description
+
+In this project, you have created only one remote branch. In a production environment, there could be more than one branch. But there are ways to list them easily. Now, your task is to list your remotes. To accomplish that, use the remote command with the --verbose option.
+Objectives
+
+    List your remotes.
+Solution:
+
+# Write your solution below
+# You should write the commands line by line
+git remote --verbose
