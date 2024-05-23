@@ -1,3 +1,7 @@
+> [!important]
+> "Instinct is a lie, told by a fearful body, hoping to be wrong".
+> – Guru Laghima
+
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
