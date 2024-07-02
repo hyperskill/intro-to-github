@@ -1,5 +1,5 @@
-# intro-to-github
-This is a demo repository to practice using GitHub.
+# intro-to-github Hyperskill
+This is a demo repository for Hyperskill's users to practice using GitHub.
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
