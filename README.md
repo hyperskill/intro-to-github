@@ -1,3 +1,7 @@
+#something added by me to create a PR
+some other text
+adding text for a new PR
+
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
