@@ -1,4 +1,7 @@
 # intro-to-github
+
+**This is an edit made by K P for the purpose of completing a HyperSkill Daily Exercise**
+
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
