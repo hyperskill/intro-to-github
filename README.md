@@ -14,3 +14,10 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+Einführung
+GitHub-Flow ist ein schlanker, branchbasierter Workflow. Der GitHub-Flow ist für alle Benutzer von Vorteil, nicht nur für Entwickler. Hier bei GitHub nutzen wir den GitHub-Flow zum Beispiel für unsere Standortrichtlinie, Dokumentation und Roadmap.
+
+Voraussetzungen
+Um dem GitHub-Flow zu folgen, benötigst du ein GitHub-Konto und ein Repository. Weitere Informationen zum Erstellen eines Kontos findest du unter Erstellen eines Kontos auf GitHub. Weitere Informationen zum Erstellen eines Repositorys findest du unter Schnellstart für Repositorys. Weitere Informationen zum Suchen eines vorhandenen Repositorys findest, zu dem du beitragen kannst, findest du unter Möglichkeiten finden, um zu Open-Source auf GitHub beizutragen.
+
