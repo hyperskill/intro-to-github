@@ -14,3 +14,6 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+The default repository of a branch is called main. It represents the actual version of a project. 
+Branching helps to organize team development processes. It is used when several programmers work on different features at the same time, each in their own branch. After the job is done, the code is merged.
