@@ -1,4 +1,5 @@
-# introdcution-to-github on HyperSkill
+# Correction on previous commit.
+# introduction-to-github on HyperSkill
 This is a demo repository to practice using GitHub on Hyperskill.
 
 It has two files in the **Code** tab:
