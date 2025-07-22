@@ -1,3 +1,6 @@
+# Changed
+This section has been changed
+
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
