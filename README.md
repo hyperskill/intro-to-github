@@ -1,5 +1,6 @@
 # intro-to-github
 This is a demo repository to practice using GitHub.
+A branch is created, where modification is done to have a commit and create a PR. It all to practice github.
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
