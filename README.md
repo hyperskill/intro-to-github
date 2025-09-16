@@ -21,3 +21,5 @@ Please, open [our educational repository](https://github.com/hyperskill/intro-t
 Branching:
 Branching especially helps organize team development processes. Several programmers work on different features at the same time, each in their own branch. After the job is done, the code is merged together.
 Now it may not be easy for you to understand branching, so just follow our recommendation and use special branches rather than work on the main directly. 
+############################
+added other comment xxxxxxxxxxxx
