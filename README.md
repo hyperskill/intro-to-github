@@ -14,3 +14,10 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+#############################
+Forking a repo:
+A fork is a copy of a repository. It allows you to freely experiment with it without affecting the original project. To make a fork, you must log into GitHub.
+Please, open [our educational repository](https://github.com/hyperskill/intro-to-github) and click Fork in the top-right corner of the page. You will be prompted to modify the repository name and the description when creating the fork. Once you are done, go ahead and click Create fork.
+Branching:
+Branching especially helps organize team development processes. Several programmers work on different features at the same time, each in their own branch. After the job is done, the code is merged together.
+Now it may not be easy for you to understand branching, so just follow our recommendation and use special branches rather than work on the main directly. 
