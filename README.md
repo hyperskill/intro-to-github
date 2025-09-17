@@ -1,16 +1,21 @@
 # intro-to-github
-This is a demo repository to practice using GitHub.
 
-It has two files in the **Code** tab:
-- **README.md** is a file that describes this repo (you are currently reading it)
-- **.gitignore** is a file that specifies which files and directories must be ignored by Git
+这是一个用于练习 GitHub 使用的演示仓库。
 
-You cannot directly modify files in this repo because you are not a *collaborator*.
+在 **Code** 标签页中有两个文件：
 
-The **Issues** tab is used to discuss ideas, enhancements, bugs, questions, and so on. They are grouped by *Open* and *Closed*.
+- **README.md** 是一个描述此仓库的文件（你现在正在阅读的就是它）
+    
+- **.gitignore** 是一个指定哪些文件和目录需要被 Git 忽略的文件
+    
 
-The **Pull requests** tab contains proposals to make some changes in the files located in the repository. Repo's owners may review a request and put your changes if they look good.
+你不能直接修改此仓库中的文件，因为你不是它的 _协作者（collaborator）_。
 
-You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
+**Issues** 标签页用于讨论想法、改进、漏洞、问题等等。它们会按照 _Open（打开）_ 和 _Closed（关闭）_ 来分组。
 
-If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+**Pull requests** 标签页包含对仓库文件进行修改的提议。仓库的拥有者可以审查请求，如果觉得合适，就会采纳你的更改。
+
+你可以创建一个 _Issue_ 或者提交一个 _Pull request（PR）_ 来为项目做贡献。
+
+如果你想对该仓库提出修改建议，你可以 _fork_ 它，修改内容，然后创建一个 _PR_。  
+_Fork_ 只是一个副本，它允许你在不影响原始项目的情况下进行更改。
