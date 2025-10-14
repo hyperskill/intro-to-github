@@ -1,4 +1,7 @@
 # intro-to-github
+
+I've learned about forks or branches.
+
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
