@@ -17,4 +17,4 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 ----
 
-Learnd about branches today, Nice!
+I learned something about forks and branches today, Nice!
