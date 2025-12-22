@@ -29,3 +29,5 @@ Imagine all the people Living life in peace
 - нажать на карандашик
 
 Чтобы зафиксировать изменения: нажать Commit changes
+
+Потом создаем Pull request
