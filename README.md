@@ -18,3 +18,14 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 Imagine there's no countries, It isn't hard to do
 Nothing to kill or die for And no religion too
 Imagine all the people Living life in peace
+
+Чтобы создать новую ветку:
+- нажать на Master
+- ввести название (name) ветки
+- нажать Enter или Create branch: name
+
+Изменить файл Readme^
+- нажать на файл
+- нажать на карандашик
+
+Чтобы зафиксировать изменения: нажать Commit changes
