@@ -31,3 +31,6 @@ Imagine all the people Living life in peace
 Чтобы зафиксировать изменения: нажать Commit changes
 
 Потом создаем Pull request
+Нажать Contribute и в выпадающем списке выбрать Open pull request
+
+Sync fork позволяет получить изменения из основного репозитория
