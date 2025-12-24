@@ -21,21 +21,29 @@ Imagine there's no countries, It isn't hard to do
 Nothing to kill or die for And no religion too
 Imagine all the people Living life in peace
 
+Чтобы создать новую ветку:
+- нажать на Master
+- ввести название (name) ветки
+- нажать Enter или Create branch: name
+
+Изменить файл Readme^
+- нажать на файл
+- нажать на карандашик
+
+Чтобы зафиксировать изменения: нажать Commit changes
+
+Потом создаем Pull request
+Нажать Contribute и в выпадающем списке выбрать Open pull request
+
+Sync fork позволяет получить изменения из основного репозитория
+
+
 On New Year’s Eve, the stars so bright,
-
 The world is filled with festive light.
-
 With hearts aglow, we welcome cheer,
-
 And bid farewell to yesteryear.
 
-
-
 In every home, a warm embrace,
-
 The joy of life in every face.
-
 A brand new start, a fresh new page,
-
 Let’s dance together, hearts engaged.
-
