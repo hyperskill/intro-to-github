@@ -1,9 +1,11 @@
 # intro-to-github
+
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
-- **README.md** is a file that describes this repo (you are currently reading it)
-- **.gitignore** is a file that specifies which files and directories must be ignored by Git
+
+* **README.md** is a file that describes this repo (you are currently reading it)
+* **.gitignore** is a file that specifies which files and directories must be ignored by Git
 
 You cannot directly modify files in this repo because you are not a *collaborator*.
 
@@ -14,3 +16,34 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+Imagine there's no countries, It isn't hard to do
+Nothing to kill or die for And no religion too
+Imagine all the people Living life in peace
+
+Чтобы создать новую ветку:
+- нажать на Master
+- ввести название (name) ветки
+- нажать Enter или Create branch: name
+
+Изменить файл Readme^
+- нажать на файл
+- нажать на карандашик
+
+Чтобы зафиксировать изменения: нажать Commit changes
+
+Потом создаем Pull request
+Нажать Contribute и в выпадающем списке выбрать Open pull request
+
+Sync fork позволяет получить изменения из основного репозитория
+
+
+On New Year’s Eve, the stars so bright,
+The world is filled with festive light.
+With hearts aglow, we welcome cheer,
+And bid farewell to yesteryear.
+
+In every home, a warm embrace,
+The joy of life in every face.
+A brand new start, a fresh new page,
+Let’s dance together, hearts engaged.
