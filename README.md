@@ -1,4 +1,4 @@
-# Just practicing making changes on Github
+Just practicing making changes on Github
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
