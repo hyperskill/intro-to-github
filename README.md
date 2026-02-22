@@ -15,4 +15,8 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
+<<<<<<< HEAD
 lol get rekt
+=======
+lol
+>>>>>>> bbfab9fb13d3fc9ecf3f8744d9a7660f883b88c0
