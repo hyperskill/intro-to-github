@@ -1,5 +1,6 @@
 # intro-to-github
-This is a demo repository to practice using GitHub.
+Intro to GitHub is an hands‑on demo for beginners to practice forks, branches, and pull requests.
+---
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
