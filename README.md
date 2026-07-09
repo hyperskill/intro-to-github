@@ -1,3 +1,4 @@
+*new text for educational purpose*
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
