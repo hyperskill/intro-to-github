@@ -14,3 +14,5 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+**GitHub hosts millions of projects written in different programming languages. Each project is placed in its own container called a repository (repo) that can store code, configurations, datasets, pictures, and other files included in your project. Any changes to the files within a repo will be tracked via version control.**
