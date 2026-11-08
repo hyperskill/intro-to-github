@@ -33,3 +33,9 @@ A aba "Pull requests" contém propostas para realizar alterações nos arquivos 
 Você pode criar uma "Issue" ou enviar um "Pull request" (PR) para contribuir com o projeto.
 
 Se desejar propor alterações neste repositório, você pode fazer um "fork", modificar o conteúdo e criar um "Pull request". Um "fork" é, basicamente, uma cópia que permite alterar o conteúdo sem afetar o projeto original.
+
+# ---===---===---
+
+## Neste exercício deve-se criar o pool request - mas não faça o "merge" sugerido pelo proprio github! 
+
+
