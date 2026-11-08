@@ -14,3 +14,22 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+
+# usando a boa e velha lingua portuguesa: 
+
+Este é um repositório de demonstração para praticar o uso do GitHub.
+
+Ele contém dois arquivos na aba "Code" (Código):
+
+README.md é um arquivo que descreve este repositório (você está lendo-o agora).
+.gitignore é um arquivo que especifica quais arquivos e diretórios devem ser ignorados pelo Git.
+Você não pode modificar diretamente os arquivos neste repositório, pois não é um colaborador.
+
+A aba "Issues" (Problemas/Questões) é usada para discutir ideias, melhorias, erros (bugs), dúvidas, entre outros tópicos. Elas são organizadas em "Open" (Abertas) e "Closed" (Fechadas).
+
+A aba "Pull requests" contém propostas para realizar alterações nos arquivos presentes no repositório. Os proprietários do repositório podem analisar uma solicitação e incorporar suas alterações, caso as considerem adequadas.
+
+Você pode criar uma "Issue" ou enviar um "Pull request" (PR) para contribuir com o projeto.
+
+Se desejar propor alterações neste repositório, você pode fazer um "fork", modificar o conteúdo e criar um "Pull request". Um "fork" é, basicamente, uma cópia que permite alterar o conteúdo sem afetar o projeto original.
