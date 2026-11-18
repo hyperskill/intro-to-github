@@ -1,4 +1,4 @@
-Edited README.md
+Edited README.md locally
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
