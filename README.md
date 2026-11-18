@@ -1,3 +1,4 @@
+Edited README.md file
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
